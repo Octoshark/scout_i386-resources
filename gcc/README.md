@@ -1,1 +1,1 @@
-
+This build script is based on what SCell provided me. The git patch was also supplied by SCell
